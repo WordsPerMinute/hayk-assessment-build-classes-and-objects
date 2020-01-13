@@ -53,3 +53,5 @@ the_hub = Building.new("The Hub", "12345 Walnut St", 7, 3000)
 neo_studio = Building.new("Neo Studio", "3560 Walnut St", 2, 100)
 learning_center = Building.new("Where Dreams Begin Learning Center", "3739 N Downing St", 1, 75)
 abandoned_building = Building.new("abandoned building...", "3563 Walnut St", 1, 0)
+
+#test
